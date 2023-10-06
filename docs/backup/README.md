@@ -6,11 +6,11 @@
   
   Tujuan utama dari backup data adalah untuk melindungi data dari kerusakan, kehilangan, atau serangan malware. Dengan membuat salinan cadangan data, jika terjadi kegagalan perangkat keras, kesalahan manusia, serangan virus, atau kehilangan data lainnya, Anda dapat menggunakan salinan cadangan tersebut untuk memulihkan data yang hilang atau rusak.
 
-## Backup data hawa
+## Bagaimana melakukan backup data Hawa
 
-- Langkah awal untuk melakukan backup data hawa 
+- Langkah awal untuk melakukan backup data Hawa 
 
-  Buka service pada laptop, kemudian stop service hawa cems 
+  Buka service pada laptop, kemudian stop service Hawa CEMS 
 
 ![An Image](./img/service.png)
 
@@ -20,6 +20,6 @@
 
 ![An Image](./img/file_backup.png)
 
-  Jika sudah selesai maka anda akan mendapatkan file zip dan untuk keamanan backup data hawa sudah selesai dan jangan lupa untuk start running service hawa cems kembali supaya aplikasi hawa cems dapat berjalan seperti semula.
+  Jika sudah selesai maka anda akan mendapatkan file zip dan untuk keamanan backup data Hawa sudah selesai dan jangan lupa untuk start running service kembali supaya aplikasi Hawa CEMS dapat berjalan seperti semula.
 
 Terima kasih dan semoga dapat membantu anda.
