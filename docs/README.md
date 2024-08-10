@@ -26,7 +26,7 @@ footerHtml: true
 
 <!-- # CEMS Online -->
 
-## Tentang Hawa CEMS Online
+## Tentang Hawa CEMS Online hehe haha
 
 Aplikasi CEMS Online berbasis hawa ini pada dasarnya seperti Data Aqcuitition System (DAS) dan Data Interfacing System (DIS) yang saling terintegrasi. Tetapi pada penggunaannya bisa digunakan sebagai DAS secara independen ataupun sebagai DIS secara independen.
 
