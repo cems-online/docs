@@ -32,6 +32,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           # choose node.js version to use
+          token: ${{ secrets.GH_PAT }}
           node-version: '16'
 
       # cache node_modules
