@@ -142,8 +142,17 @@ module.exports = {
           text: "FAQ",
           sidebarDepth: 3,
           collapsable: true,
+          link: "/faq/readme.md",
 
-          children: ["/faq/"],
+          children: [
+            "/faq/nilai-parameter/readme.md",
+            "/faq/generate-report/readme.md",
+            "/faq/kendala-pengiriman-data/readme.md",
+            "/faq/data-sispek/readme.md",
+            "/faq/set-status-chimney/readme.md",
+            "/faq/set-status-parameter/readme.md",
+
+          ],
         },
       ],
 
